@@ -1,0 +1,2 @@
+NEWS_API_KEY = "1a5f48cb3cde42f8b41bc08845134b76"  # Get from https://newsapi.org/
+# OPENAI_API_KEY = "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"  # Get from https://openai.com/
